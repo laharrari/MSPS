@@ -42,75 +42,73 @@ function action(mode, type, selection) {
                  "#k\r\n#L86##rETC Items");
 	  } else if (selection == 80) {
                cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L0##rHats" +
-			"#k\r\n#L1##rEarrings" +
-			"#k\r\n#L2##rNecklaces and Face Accessories" +
-			"#k\r\n#L3##rCapes" +
-			"#k\r\n#L4##rOveralls" +
-			"#k\r\n#L5##rGloves" +
-			"#k\r\n#L6##rShields" +
-			"#k\r\n#L7##rShoes" +
-			"#k\r\n#L8##rMaple Weapons" +
-			"#k\r\n#L9##rLevel 0 Weapons");
+			"#k\r\n#L0##rEarrings" +
+			"#k\r\n#L1##rNecklaces and Face Accessories" +
+			"#k\r\n#L2##rCapes" +
+			"#k\r\n#L3##rOveralls" +
+			"#k\r\n#L4##rGloves" +
+			"#k\r\n#L5##rShoes" +
+			"#k\r\n#L6##rMaple Weapons");
 	  } else if (selection == 81) {
                cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L10##bHats" +
-			"#k\r\n#L11##bTops" +
-			"#k\r\n#L12##bBottoms" +
-			"#k\r\n#L13##bOveralls" +
-			"#l\r\n#L14##bGloves" +
-			"#l\r\n#L15##bShields" +
-			"#l\r\n#L16##bShoes" +
-			"#l\r\n#L17##b1H Axes" +
-			"#k\r\n#L18##b2H Axes" +
-			"#k\r\n#L19##b1H BWs" +
-			"#k\r\n#L20##b2H BWs" +
-			"#k\r\n#L21##b1H Swords" +
-			"#k\r\n#L22##b2H Swords" +
-			"#k\r\n#L23##b2H Spears" +
-			"#k\r\n#L24##bPole Arms");
+			"#k\r\n#L7##bHats" +
+			"#k\r\n#L8##bTops" +
+			"#k\r\n#L9##bBottoms" +
+			"#k\r\n#L10##bOveralls" +
+			"#l\r\n#L11##bGloves" +
+			"#l\r\n#L12##bShields" +
+			"#l\r\n#L13##bShoes" +
+			"#l\r\n#L14##b1H Axes" +
+			"#k\r\n#L15##b2H Axes" +
+			"#k\r\n#L16##b1H BWs" +
+			"#k\r\n#L17##b2H BWs" +
+			"#k\r\n#L18##b1H Swords" +
+			"#k\r\n#L19##b2H Swords" +
+			"#k\r\n#L20##b2H Spears" +
+			"#k\r\n#L21##bPole Arms");
 	  } else if (selection == 82) {
                cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L25##dHats" +
-			"#k\r\n#L26##dOveralls" +
-			"#k\r\n#L27##dGloves" +
-			"#k\r\n#L28##dShields" +
-			"#k\r\n#L29##dShoes" +
-			"#k\r\n#L30##dWands" +
-			"#k\r\n#L31##dStaffs");
+			"#k\r\n#L22##dHats" +
+			"#k\r\n#L23##dOveralls" +
+			"#k\r\n#L24##dGloves" +
+			"#k\r\n#L25##dShields" +
+			"#k\r\n#L26##dShoes" +
+			"#k\r\n#L27##dWands" +
+			"#k\r\n#L28##dStaffs");
 	  } else if (selection == 83) {
                cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L32##gHats" +
-			"#k\r\n#L33##gOveralls" +
-			"#k\r\n#L34##gGloves" +
-			"#k\r\n#L35##gShoes" +
-			"#k\r\n#L36##gBows" +
-			"#k\r\n#L37##gCrossbows" +
-			"#k\r\n#L38##gArrows");
+			"#k\r\n#L29##gHats" +
+			"#k\r\n#L30##gOveralls" +
+			"#k\r\n#L31##gGloves" +
+			"#k\r\n#L32##gShoes" +
+			"#k\r\n#L33##gBows" +
+			"#k\r\n#L34##gCrossbows" +
+			"#k\r\n#L35##gArrows");
 	  } else if (selection == 84) {
                cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L39##bHats" +
-			"#k\r\n#L40##bTops" +
-			"#k\r\n#L41##bBottoms" +
-			"#k\r\n#L42##bOveralls" +
-			"#k\r\n#L43##bGloves" +
-			"#k\r\n#L44##bShields" +
-			"#k\r\n#L45##bShoes" +
-			"#k\r\n#L46##bDaggers" +
-			"#k\r\n#L47##bClaws" +
-			"#k\r\n#L48##bThrowing Stars");
+			"#k\r\n#L36##bHats" +
+			"#k\r\n#L37##bTops" +
+			"#k\r\n#L38##bBottoms" +
+			"#k\r\n#L39##bOveralls" +
+			"#k\r\n#L40##bGloves" +
+			"#k\r\n#L41##bShields" +
+			"#k\r\n#L42##bShoes" +
+			"#k\r\n#L43##bDaggers" +
+			"#k\r\n#L44##bClaws" +
+			"#k\r\n#L45##bThrowing Stars");
 	  } else if (selection == 85) {
                cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L49#Hats" +
-			"#k\r\n#L50#Overalls" +
-			"#k\r\n#L51#Gloves" +
-			"#k\r\n#L52#Shoes" +
-			"#k\r\n#L53#Weapons" +
-			"#k\r\n#L54#Bullets and Capsules");
+			"#k\r\n#L46#Hats" +
+			"#k\r\n#L47#Overalls" +
+			"#k\r\n#L48#Gloves" +
+			"#k\r\n#L49#Shoes" +
+			"#k\r\n#L50#Weapons" +
+			"#k\r\n#L51#Bullets and Capsules");
 	  } else if (selection == 86) {
                cm.sendSimple ("Pick a Category #e#d" +
-			"\r\n#L55#Messengers" +
-			"\r\n#L56#Mounts");
+			"\r\n#L52#Consumables" +
+			"\r\n#L53#Scrolls" +
+			"\r\n#L54#Chairs");
 	  } else if (selection == 0) {
 		cm.openShopNPC (6000);
 		cm.dispose();
@@ -133,151 +131,149 @@ function action(mode, type, selection) {
 		cm.openShopNPC (6006);
 		cm.dispose();
 	  } else if (selection == 7) {
-		cm.openShopNPC (6007);
-		cm.dispose();
-	  } else if (selection == 8) {
-		cm.openShopNPC (6008);
-		cm.dispose();
-	  } else if (selection == 9) {
-		cm.openShopNPC (6009);
-		cm.dispose();
-	  } else if (selection == 10) {
 		cm.openShopNPC (6100);
 		cm.dispose();
-	  } else if (selection == 11) {
+	  } else if (selection == 8) {
 		cm.openShopNPC (6101);
 		cm.dispose();
-	  } else if (selection == 12) {
+	  } else if (selection == 9) {
 		cm.openShopNPC (6102);
 		cm.dispose();
-	  } else if (selection == 13) {
+	  } else if (selection == 10) {
 		cm.openShopNPC (6103);
 		cm.dispose();
-	  } else if (selection == 14) {
+	  } else if (selection == 11) {
 		cm.openShopNPC (6104);
 		cm.dispose();
-	  } else if (selection == 15) {
+	  } else if (selection == 12) {
 		cm.openShopNPC (6105);
 		cm.dispose();
-	  } else if (selection == 16) {
+	  } else if (selection == 13) {
 		cm.openShopNPC (6106);
 		cm.dispose();
-	  } else if (selection == 17) {
+	  } else if (selection == 14) {
 		cm.openShopNPC (6107);
 		cm.dispose();
-	  } else if (selection == 18) {
+	  } else if (selection == 15) {
 		cm.openShopNPC (6108);
 		cm.dispose();
-	  } else if (selection == 19) {
+	  } else if (selection == 16) {
 		cm.openShopNPC (6109);
 		cm.dispose();
-	  } else if (selection == 20) {
+	  } else if (selection == 17) {
 		cm.openShopNPC (6110);
 		cm.dispose();
-	  } else if (selection == 21) {
+	  } else if (selection == 18) {
 		cm.openShopNPC (6111);
 		cm.dispose();
-	  } else if (selection == 22) {
+	  } else if (selection == 19) {
 		cm.openShopNPC (6112);
 		cm.dispose();
-	  } else if (selection == 23) {
+	  } else if (selection == 20) {
 		cm.openShopNPC (6113);
 		cm.dispose();
-	  } else if (selection == 24) {
+	  } else if (selection == 21) {
 		cm.openShopNPC (6114);
 		cm.dispose();
-	  } else if (selection == 25) {
+	  } else if (selection == 22) {
 		cm.openShopNPC (6200);
 		cm.dispose();
-	  } else if (selection == 26) {
+	  } else if (selection == 23) {
 		cm.openShopNPC (6201);
 		cm.dispose();
-	  } else if (selection == 27) {
+	  } else if (selection == 24) {
 		cm.openShopNPC (6202);
 		cm.dispose();
-	  } else if (selection == 28) {
+	  } else if (selection == 25) {
 		cm.openShopNPC (6203);
 		cm.dispose();
-	  } else if (selection == 29) {
+	  } else if (selection == 26) {
 		cm.openShopNPC (6204);
 		cm.dispose();
-	  } else if (selection == 30) {
+	  } else if (selection == 27) {
 		cm.openShopNPC (6205);
 		cm.dispose();
-	  } else if (selection == 31) {
+	  } else if (selection == 28) {
 		cm.openShopNPC (6206);
 		cm.dispose();
-	  } else if (selection == 32) {
+	  } else if (selection == 29) {
 		cm.openShopNPC (6300);
 		cm.dispose();
-	  } else if (selection == 33) {
+	  } else if (selection == 30) {
 		cm.openShopNPC (6301);
 		cm.dispose();
-	  } else if (selection == 34) {
+	  } else if (selection == 31) {
 		cm.openShopNPC (6302);
 		cm.dispose();
-	  } else if (selection == 35) {
+	  } else if (selection == 32) {
 		cm.openShopNPC (6303);
 		cm.dispose();
-	  } else if (selection == 36) {
+	  } else if (selection == 33) {
 		cm.openShopNPC (6304);
 		cm.dispose();
-	  } else if (selection == 37) {
+	  } else if (selection == 34) {
 		cm.openShopNPC (6305);
 		cm.dispose();
-	  } else if (selection == 38) {
+	  } else if (selection == 35) {
 		cm.openShopNPC (6306);
 		cm.dispose();
-	  } else if (selection == 39) {
+	  } else if (selection == 36) {
 		cm.openShopNPC (6400);
 		cm.dispose();
-	  } else if (selection == 40) {
+	  } else if (selection == 37) {
 		cm.openShopNPC (6401);
 		cm.dispose();
-	  } else if (selection == 41) {
+	  } else if (selection == 38) {
 		cm.openShopNPC (6402);
 		cm.dispose();
-	  } else if (selection == 42) {
+	  } else if (selection == 39) {
 		cm.openShopNPC (6403);
 		cm.dispose();
-	  } else if (selection == 43) {
+	  } else if (selection == 40) {
 		cm.openShopNPC (6404);
 		cm.dispose();
-	  } else if (selection == 44) {
+	  } else if (selection == 41) {
 		cm.openShopNPC (6405);
 		cm.dispose();
-	  } else if (selection == 45) {
+	  } else if (selection == 42) {
 		cm.openShopNPC (6406);
 		cm.dispose();
-	  } else if (selection == 46) {
+	  } else if (selection == 43) {
 		cm.openShopNPC (6407);
 		cm.dispose();
-	  } else if (selection == 47) {
+	  } else if (selection == 44) {
 		cm.openShopNPC (6408);
 		cm.dispose();
-	  } else if (selection == 48) {
+	  } else if (selection == 45) {
 		cm.openShopNPC (6409);
 		cm.dispose();
-	  } else if (selection == 49) {
+	  } else if (selection == 46) {
 		cm.openShopNPC (6500);
 		cm.dispose();
-	  } else if (selection == 50) {
+	  } else if (selection == 47) {
 		cm.openShopNPC (6501);
 		cm.dispose();
-	  } else if (selection == 51) {
+	  } else if (selection == 48) {
 		cm.openShopNPC (6502);
 		cm.dispose();
-	  } else if (selection == 52) {
+	  } else if (selection == 49) {
 		cm.openShopNPC (6503);
 		cm.dispose();
-	  } else if (selection == 53) {
+	  } else if (selection == 50) {
 		cm.openShopNPC (6504);
 		cm.dispose();
-	  } else if (selection == 54) {
+	  } else if (selection == 51) {
 		cm.openShopNPC (6505);
 		cm.dispose();
-	  } else {
-		  cm.sendOk("Under Construction");
+	  } else if (selection == 52) {
+		cm.openShopNPC (6600);
+		cm.dispose();
+	  } else if (selection == 53) {
+		cm.openShopNPC (6601);
+		cm.dispose();
+	  } else if (selection == 54) {
+		cm.openShopNPC (6602);
+		cm.dispose();
 	  }
 	}
 }
