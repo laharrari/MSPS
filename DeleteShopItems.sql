@@ -1,0 +1,1 @@
+DELETE FROM `shopitems` WHERE `shopid` >= 6000 AND `shopid` <= 6706;
