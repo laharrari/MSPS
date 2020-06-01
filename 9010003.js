@@ -266,13 +266,16 @@ function action(mode, type, selection) {
 		cm.openShopNPC (6505);
 		cm.dispose();
 	  } else if (selection == 52) {
-		cm.openShopNPC (6600);
+		// cm.openShopNPC (6600);
+		cm.sendOk("Under construction");
 		cm.dispose();
 	  } else if (selection == 53) {
-		cm.openShopNPC (6601);
+		// cm.openShopNPC (6601);
+		cm.sendOk("Under construction");
 		cm.dispose();
 	  } else if (selection == 54) {
-		cm.openShopNPC (6602);
+		// cm.openShopNPC (6602);
+		cm.sendOk("Under construction");
 		cm.dispose();
 	  }
 	}
