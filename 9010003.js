@@ -107,8 +107,7 @@ function action(mode, type, selection) {
 	  } else if (selection == 86) {
                cm.sendSimple ("Pick a Category #e#d" +
 			"\r\n#L52#Consumables" +
-			"\r\n#L53#Scrolls" +
-			"\r\n#L54#Chairs");
+			"\r\n#L53#Scrolls");
 	  } else if (selection == 0) {
 		cm.openShopNPC (6000);
 		cm.dispose();
@@ -270,12 +269,7 @@ function action(mode, type, selection) {
 		cm.sendOk("Under construction");
 		cm.dispose();
 	  } else if (selection == 53) {
-		// cm.openShopNPC (6601);
-		cm.sendOk("Under construction");
-		cm.dispose();
-	  } else if (selection == 54) {
-		// cm.openShopNPC (6602);
-		cm.sendOk("Under construction");
+		cm.openShopNPC (6601);
 		cm.dispose();
 	  }
 	}
